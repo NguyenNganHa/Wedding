@@ -16,3 +16,12 @@ D:\Git_Projrect\Wedding\ProjectWedding\BUS\bin\Debug\DTO.pdb
 D:\Git_Projrect\Wedding\ProjectWedding\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 D:\Git_Projrect\Wedding\ProjectWedding\BUS\obj\Debug\BUS.dll
 D:\Git_Projrect\Wedding\ProjectWedding\BUS\obj\Debug\BUS.pdb
+D:\Wedding\ProjectWedding\BUS\bin\Debug\BUS.dll
+D:\Wedding\ProjectWedding\BUS\bin\Debug\BUS.pdb
+D:\Wedding\ProjectWedding\BUS\bin\Debug\DAL.dll
+D:\Wedding\ProjectWedding\BUS\bin\Debug\DTO.dll
+D:\Wedding\ProjectWedding\BUS\bin\Debug\DAL.pdb
+D:\Wedding\ProjectWedding\BUS\bin\Debug\DTO.pdb
+D:\Wedding\ProjectWedding\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Wedding\ProjectWedding\BUS\obj\Debug\BUS.dll
+D:\Wedding\ProjectWedding\BUS\obj\Debug\BUS.pdb

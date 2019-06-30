@@ -12,3 +12,10 @@ D:\Git_Projrect\Wedding\ProjectWedding\DAL\bin\Debug\DTO.pdb
 D:\Git_Projrect\Wedding\ProjectWedding\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 D:\Git_Projrect\Wedding\ProjectWedding\DAL\obj\Debug\DAL.dll
 D:\Git_Projrect\Wedding\ProjectWedding\DAL\obj\Debug\DAL.pdb
+D:\Wedding\ProjectWedding\DAL\bin\Debug\DAL.dll
+D:\Wedding\ProjectWedding\DAL\bin\Debug\DAL.pdb
+D:\Wedding\ProjectWedding\DAL\bin\Debug\DTO.dll
+D:\Wedding\ProjectWedding\DAL\bin\Debug\DTO.pdb
+D:\Wedding\ProjectWedding\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Wedding\ProjectWedding\DAL\obj\Debug\DAL.dll
+D:\Wedding\ProjectWedding\DAL\obj\Debug\DAL.pdb

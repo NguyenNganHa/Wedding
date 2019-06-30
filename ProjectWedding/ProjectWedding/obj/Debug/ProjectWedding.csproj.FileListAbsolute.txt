@@ -102,3 +102,9 @@ D:\Git_Projrect\Wedding\ProjectWedding\ProjectWedding\bin\Debug\DTO.pdb
 D:\Git_Projrect\Wedding\ProjectWedding\ProjectWedding\bin\Debug\DAL.pdb
 D:\Git_Projrect\Wedding\ProjectWedding\ProjectWedding\obj\Debug\ProjectWedding.exe
 D:\Git_Projrect\Wedding\ProjectWedding\ProjectWedding\obj\Debug\ProjectWedding.pdb
+D:\Wedding\ProjectWedding\ProjectWedding\bin\Debug\BUS.dll
+D:\Wedding\ProjectWedding\ProjectWedding\bin\Debug\DTO.dll
+D:\Wedding\ProjectWedding\ProjectWedding\bin\Debug\DAL.dll
+D:\Wedding\ProjectWedding\ProjectWedding\bin\Debug\BUS.pdb
+D:\Wedding\ProjectWedding\ProjectWedding\bin\Debug\DTO.pdb
+D:\Wedding\ProjectWedding\ProjectWedding\bin\Debug\DAL.pdb
